@@ -1,6 +1,6 @@
 module github.com/gruntwork-io/terratest
 
-go 1.18
+go 1.13
 
 require (
 	cloud.google.com/go v0.83.0
